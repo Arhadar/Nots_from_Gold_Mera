@@ -20,6 +20,8 @@ public class Main {
 
             System.out.println("число исходное = " + a );
             System.out.println("ближайшая отметка = " + c);
+            System.out.println();
+
         }
 
     }
